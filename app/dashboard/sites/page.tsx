@@ -6,7 +6,6 @@ import Link from "next/link";
 
 export default function SitesRoute() {
 
-
     return (
         <>
             <div className="flex w-full justify-end">
